@@ -1,0 +1,3 @@
+[submodule "Mvvm"]
+	path = Mvvm
+	url = https://github.com/MugenMvvmToolkit/MugenMvvmToolkit.git
