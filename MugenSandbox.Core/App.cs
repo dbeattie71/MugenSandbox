@@ -8,7 +8,8 @@ namespace MugenSandbox.Core
     {
         public override Type GetStartViewModelType()
         {
-            return typeof (MainViewModel);
+            //return typeof (MainViewModel);
+            return typeof (TableViewModel);
         }
     }
 }
